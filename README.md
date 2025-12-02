@@ -1,0 +1,2 @@
+# Windows-Server-2019-IIS-Multi-Site-Hosting-DNS-Configuration
+Bu proje, sanallaştırma ortamında Windows Server 2019 altyapısı kurularak; Active Directory (AD), DNS ve IIS (Internet Information Services) rollerinin yapılandırılmasını içermektedir. Tek bir sunucu üzerinde IP tabanlı ve Host Header (Alan Adı) tabanlı yönlendirmelerle birden fazla web sitesi (Virtual Hosting) başarıyla yayınlanmıştır.
